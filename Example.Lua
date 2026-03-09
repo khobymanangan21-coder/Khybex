@@ -1,6 +1,6 @@
 -- Khybex Hub : Blox Fruits
 
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/KhybexUI.lua"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/khobymanangan21-coder/Khybex/refs/heads/main/KhybexUI.Lua"))()
 
 local UI = Library:Init()
 
